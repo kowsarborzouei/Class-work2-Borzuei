@@ -1,0 +1,99 @@
+.button-top{
+    background-color: #E91E63;
+    font-size: 15px;
+    text-align:center;
+    border-radius: 5px;
+    width: 50px;
+    height: 30px;
+    float:right;
+    margin-right:302px;
+    border: 0px ;
+}
+.div-main{
+    width: 800px;
+    padding-top:50px;
+    margin: auto;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+h5{
+    font-weight: 400;
+}
+h1{
+    font-weight: 800;
+    font-size: 55px;
+}
+.div-icon-text{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    color: #90A4AE;
+    display: flex;
+    font-size: 13px;
+}
+.center-icon-text{
+    align-items: center;
+    display: flex;
+    padding-right: 15px;
+}
+.div-icon-text2{
+    font-size: 13.5px;
+    color: #90A4AE;
+    align-items: center;
+    display: flex;
+}
+.buttons{
+    width: 156px;
+    height: 40px;
+    color: white;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    margin-right: 4.15px;
+    font-size: 13px;
+}
+.div-box{
+    width: 780px;
+    height: 200px;
+    background-color: #EFEFF1;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+}
+.div-img{
+    border-radius: 100%;
+    padding: 30px;
+}
+.text-box{
+    padding: 15px 15px 15px 0;
+    line-height: 30px;
+}
+.span1-box{
+    font-weight: 700;
+    color: #455A64;
+}
+.span23-box{
+    font-size: 14px;
+}
+.div-bottom{
+    display: flex;
+    align-items: center;
+    position:relative;
+    line-height: 3px
+}
+.f-p13{
+    font-size: 16px;
+}
+.f-p24{
+    font-size: 11px;
+}
+.f-I{
+    font-size: 30px;
+}
+.s-p-r{
+    text-align: right;
+    color: #90A4AE;
+}
+.s-p-l{
+    text-align:left;
+    color: #90A4AE;
+}
