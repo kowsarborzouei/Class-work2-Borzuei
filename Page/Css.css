@@ -48,11 +48,11 @@ h1{
     border: 0px;
     display: flex;
     align-items: center;
-    margin-right: 4.15px;
+    margin-left: 5.4px;
     font-size: 13px;
 }
 .div-box{
-    width: 780px;
+    width: 800px;
     height: 200px;
     background-color: #EFEFF1;
     margin-left: 5px;
