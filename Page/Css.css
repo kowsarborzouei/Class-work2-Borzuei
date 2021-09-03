@@ -97,3 +97,17 @@ h1{
     text-align:left;
     color: #90A4AE;
 }
+
+
+@media screen and(max-width: 375px) {
+    h1{
+        font-weight: 700;
+        background-color: #D9483B;
+        font-size: 45px;
+    }
+    .div-icon-text{
+        font-size: 9px;
+        background-color: #0376B5;
+    }
+
+}
