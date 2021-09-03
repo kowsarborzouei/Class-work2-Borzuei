@@ -41,6 +41,7 @@ h1{
     align-items: center;
     display: flex;
 }
+.img-center{ width: 800px}
 .buttons{
     width: 156px;
     height: 40px;
@@ -99,15 +100,74 @@ h1{
 }
 
 
-@media screen and(max-width: 375px) {
+@media screen and (max-width: 375px) {
+    .button-top{
+        width: 23px;
+        height: 10px;
+        font-size: 8px;
+        margin-right: 8px;
+        border-radius: 3px;
+    }
+    .div-main{
+        width: 300px;
+        margin: auto;
+    }
+    h5{
+        font-size: 10px;
+    }
+    .img-center{
+        width: 300px;
+    }
     h1{
-        font-weight: 700;
+        font-weight: 800;
         background-color: #D9483B;
-        font-size: 45px;
+        font-size: 40px;
     }
     .div-icon-text{
-        font-size: 9px;
-        background-color: #0376B5;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: #90A4AE;
+        display: block;
+        font-size: 10px;
     }
+
+    .buttons{
+        width: 60px;
+        height: 60px;
+        color: white;
+        border: 0px;
+        display:block;
+        margin-left: 5.4px;
+        font-size: 10px;
+        padding: 0px;
+        align-items: center;
+    }
+    .div-box{
+        width: 300px;
+        height: 400px;
+        background-color: #EFEFF1;
+        display: block;
+        /*padding-left:30px;*/
+        margin: auto;
+    }
+    .div-img{
+        border-radius: 80%;
+        padding: 40px 80px 20px 80px;}
+    .text-box{
+        padding: 15px 15px 15px 15px;
+        line-height: 30px;
+    }
+    .f-p13{
+        font-size: 14px;
+    }
+    .f-p24{
+        font-size: 9px;
+    }
+    .f-I{
+        font-size: 25px;
+    }
+
+
+
 
 }
