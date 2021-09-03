@@ -52,6 +52,9 @@ h1{
     margin-left: 5.4px;
     font-size: 13px;
 }
+.class-buttons{
+    display: flex;
+}
 .div-box{
     width: 800px;
     height: 200px;
@@ -132,15 +135,24 @@ h1{
     }
 
     .buttons{
-        width: 60px;
-        height: 60px;
+        width: 300px;
+        height: 40px;
         color: white;
         border: 0px;
-        display:block;
-        margin-left: 5.4px;
-        font-size: 10px;
+        /*margin-left: 5.4px*/;
+        font-size: 13px;
         padding: 0px;
         align-items: center;
+        margin: auto;
+        text-align: center;
+        margin-top: 5px;
+        padding-left: 98px;
+    }
+    .class-buttons{
+        display: block;
+        margin: auto;
+
+
     }
     .div-box{
         width: 300px;
